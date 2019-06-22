@@ -1,0 +1,61 @@
+body {
+  background-color: #cdeeaa;
+  margin: 0;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  margin-top: 50px;
+  width: 5%;
+}
+.pro{
+  text-decoration: underline;
+}
+h1 {
+  color: #00adb5;
+  margin-top: 0;
+  /*font-family: 'Sacramento', cursive;*/
+  font-family: 'Righteous', cursive;
+}
+
+h3 {
+  color: #00adb5;
+  margin-top: 5px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+.top-dev{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-dev{
+  position: absolute;
+  left: 200px;
+  bottom: 170px;
+}
+.coding{
+  padding-top: 100px;
+}
+.skill-image-1{
+  padding-top: 5px;
+  width: 320px;
+  height: 280px;
+}
+.profile{
+  padding-top: 20px;
+}
+#feedback{
+  position: relative;
+  right: 620px;
+}
+.feedbackblock{
+  text-align: left;
+}
